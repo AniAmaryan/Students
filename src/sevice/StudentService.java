@@ -4,7 +4,7 @@ import model.Students;
 
 public class StudentService {
 
-    private static final String PATH = "C:\\Users\\User\\Desktop\\ElectronicsTask\\src\\students.txt";
+    private static final String PATH = "C:\\Users\\User\\Desktop\\Students\\src\\students.txt";
 
     public void create(Students[] s) throws Exception {
 
